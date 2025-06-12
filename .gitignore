@@ -1,0 +1,19 @@
+# Spring Boot (Java)
+email-write/target/
+*.class
+*.log
+
+# React (Node)
+Email-Writer-React/node_modules/
+Email-Writer-React/build/
+
+# Chrome Extension
+Email-Writer-ext/node_modules/
+
+# IDE settings
+.idea/
+.vscode/
+
+# OS junk
+.DS_Store
+Thumbs.db
